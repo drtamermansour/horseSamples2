@@ -1,0 +1,5 @@
+hub horseSamples2
+shortLabel horseSamples2
+longLabel UCSC track hub to compare horse transcriptome samples
+genomesFile genomes_horseSamples2.txt
+email drtamermansour@gmail.com
